@@ -1,5 +1,5 @@
 # Self Evaluation
 
-- This final CFU encompassed everything you've learned in Mod 0, and maybe even required some learning outside of what you've explicitly been taught. How did it feel as you faced these challenges?
-- How is your workflow going, in terms of taking breaks, staying focused, etc.?
-- What do you need to do to be ready for intense technical lessons and challenges like this, for 6 hours/day next week? What support do you need?
+- This final CFU encompassed everything you've learned in Mod 0, and maybe even required some learning outside of what you've explicitly been taught. How did it feel as you faced these challenges? **I'm so grateful for the study rooms.  I basically stayed all day in communication with different cohortmates and finally got the solutions.  Also we had Nikki who came and aided us.**
+- How is your workflow going, in terms of taking breaks, staying focused, etc.? **My workflow needs improvement.  But I am also getting used to this time zone again and some other distractions are taking my focus.**
+- What do you need to do to be ready for intense technical lessons and challenges like this, for 6 hours/day next week? What support do you need? **I will need to collaborate a lot in the future.  I beleive I will need to have 1on1s or group sessions to work through a lot of problems.**
