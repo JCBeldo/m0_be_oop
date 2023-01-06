@@ -112,16 +112,19 @@ class Hobbit
         end
     end 
     def has_ring
+        # if @name != "Frodo" || @name != "Smeagle"
+        #     @has_ring = false
+        # end
         if @name == "Frodo" || @name == "Smeagle"
-            @has_ring = true
+            @has_ring != false
         end
     end
 end
 
-hob = Hobbit.new("Smeagle", "obsessed")
+hob = Hobbit.new("Bilbo", "obsessed")
 
 
-102.times do 
+104.times do 
     hob.celebrate_birthday
 end
 p hob
